@@ -1,4 +1,4 @@
-   
+    
 ```markdown
 # Sentient Reasoner 🧠🤖
 
