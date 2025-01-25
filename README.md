@@ -1,11 +1,6 @@
-# Sentient-Reasoner
 
-**README.md**
 ```markdown
 # Sentient Reasoner 🧠🤖
-
-[![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 
 Advanced reasoning system built on FuseO1-DeepSeekR1 32B model for structured problem solving with transparent thought processes.
 
